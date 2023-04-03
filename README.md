@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and GitHub together. Adding just for fun, more from feature branch
+This is a simple website project for showing how to use Git and GitHub together. Adding just for fun, more from feature branch. updating for emergency fix after stashing
 
 ## Introduction
 
